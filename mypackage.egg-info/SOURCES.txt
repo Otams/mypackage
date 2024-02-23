@@ -1,5 +1,7 @@
 README.md
 setup.py
+Mypackage/__init__.py
+Mypackage/myModule.py
 mypackage.egg-info/PKG-INFO
 mypackage.egg-info/SOURCES.txt
 mypackage.egg-info/dependency_links.txt
